@@ -1,0 +1,6 @@
+$mainColor: #bbeedd;
+$otherColor: #aa33dd;
+
+body{
+	background-color: fade_in($mainColor,1);
+}   

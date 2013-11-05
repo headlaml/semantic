@@ -1,0 +1,6 @@
+$mainColor: Blue;
+$other_color: #oo33dd;
+
+body{
+	background-color: $mainColor;
+}

@@ -1,0 +1,1 @@
+$('.ui.accordian').accordian();
