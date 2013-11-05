@@ -1,1 +1,3 @@
-$('.ui.accordian').accordian();
+$(document).ready(function() {
+	$('.ui.accordion').accordion();
+});
